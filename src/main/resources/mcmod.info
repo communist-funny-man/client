@@ -1,15 +1,16 @@
 [
   {
-    "modid": "kamiblue",
-    "name": "KAMI Blue",
-    "description": "カミブル \nA Minecraft utility mod for anarchy servers \nWritten by 086 and continued by l1ving\n",
+    "modid": "cocknball client",
+    "name": "cocknball client",
+    "description": "カミブル \na kami blue skid \nWritten by 086 and continued by l1ving and skidded by me\n",
     "version": "${version}",
     "mcversion": "1.12.2",
-    "url": "https://github.com/kami-blue/client",
+    "url": "https://github.com/communist-funny-man/client",
     "updateUrl": "",
     "authorList": [
       "086",
       "l1ving"
+      "im not an author just a skidder stupid"
     ],
     "credits": "Thank you 086 for the original KAMI\nThanks to all contributors for your help and time <3\n",
     "logoFile": "kami.png",

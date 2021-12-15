@@ -21,7 +21,7 @@ import java.io.File
 class KamiMod {
 
     companion object {
-        const val NAME = "KAMI Blue"
+        const val NAME = "COCKNBALL"
         const val ID = "kamiblue"
         const val DIRECTORY = "kamiblue/"
 
