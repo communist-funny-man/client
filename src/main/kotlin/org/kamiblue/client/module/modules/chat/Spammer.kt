@@ -21,7 +21,7 @@ import kotlin.random.Random
 
 internal object Spammer : Module(
     name = "Spammer",
-    description = "Spams text from a file on a set delay into the chat",
+    description = "Spams text from a file on a set delay into the chat TEST RENAME",
     category = Category.CHAT,
     modulePriority = 100
 ) {
