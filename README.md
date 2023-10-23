@@ -1,3 +1,4 @@
-stupid kami bluu personal fork 
-
-fuck off
+TODO:
+> Learn Kotlin 😢
+> Learn Forge 😢
+> Actually do anything with this 
